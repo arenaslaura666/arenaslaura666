@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Data Science
+*.csv
+*.xlsx
+*.xls
+*.h5
+*.hdf5
+*.db
+*.sqlite
+*.sql
+*.json
+*.parquet
+*.pkl
+*.pickle
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs
+.idea/
+.vscode/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
